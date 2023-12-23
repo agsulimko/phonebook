@@ -1,0 +1,9 @@
+.mainContacts {
+    background-color: dimgray;
+    height: 500px;
+    background-repeat: no-repeat;
+    max-width: 1440px;
+    background-position: center;
+    background-size: cover;
+    background-image: var(--bd-gradient), url(../image/Phone.png);
+}

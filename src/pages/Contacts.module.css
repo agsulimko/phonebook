@@ -1,0 +1,23 @@
+.h1 {
+  
+    margin: 0;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    text-align: center;
+  color: rgb(200, 233, 235);
+}
+
+    .h2{text-align: center;
+color: rgb(200, 233, 235);
+    }
+
+      .mainContacts{
+        background-color: dimgray;
+            height: 500px;
+            background-repeat: no-repeat;
+            max-width: 1440px;
+            background-position: center;
+            background-size: cover;
+            background-image: var(--bd-gradient), url(../image/Phone.png);
+        }
+      
